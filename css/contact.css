@@ -1,0 +1,33 @@
+.content{
+  margin-left: 0;
+}
+.contact_inputs tr{
+  line-height: 7rem;
+}
+.contact_inputs th{
+  width: 150px;
+  text-align: right;
+}
+.contact_inputs td{
+  width: 480px;
+  padding-left: 10px;
+}
+.contact_inputs td .form{
+  width: 100%;
+  vertical-align: middle;
+}
+.submit_button{
+  text-align: center;
+}
+.submit_button input{
+  background-color: #008080;
+  color: #fff;
+  font-size: 2rem;
+  letter-spacing: 0.5rem;
+  text-indent: 0.5rem;
+  border-style: none;
+  padding: 10px 5px;
+}
+.submit_button input:hover{
+  opacity: 0.6;
+}
